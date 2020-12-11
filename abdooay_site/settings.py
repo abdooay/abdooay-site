@@ -28,7 +28,7 @@ SECRET_KEY = ')2v)4m+kwb@1cei-1sm6dv0#15amc(7*=^zfk2=gb7^5fivyi3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["powerful-dusk-72786.herokuapp.com","abdooay.com","localhost"]
+ALLOWED_HOSTS = ["powerful-dusk-72786.herokuapp.com","abdooay.com","www.abdooay.com","localhost"]
 
 
 # Application definition
