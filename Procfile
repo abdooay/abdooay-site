@@ -1,1 +1,1 @@
-web: gunicorn abdooay-site.wsgi
+web: gunicorn abdooay_site.wsgi
